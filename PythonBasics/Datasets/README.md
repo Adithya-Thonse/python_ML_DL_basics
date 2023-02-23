@@ -1,1 +1,1 @@
-Dataset collection for all the notebooks present here.
+A collection of datasets for all the notebooks used in this repo.
